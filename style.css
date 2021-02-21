@@ -1,0 +1,33 @@
+*{
+    font-family: arial;
+}
+body{
+    background-color: #457b9d;
+}
+main{
+    width: 700px;
+    background-color: white;
+    padding: 20px;
+    margin: auto;
+    margin-top: 50px;
+}
+header ul{
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    margin-left: 320px;
+}
+header ul li{
+    list-style: none;
+    font-size: 13pt;
+    padding: 5px;
+}
+header ul li a{
+    color: white;
+    background-color: black;
+    padding: 5px;
+    text-decoration: none;
+}
