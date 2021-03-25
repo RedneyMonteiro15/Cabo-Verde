@@ -6,9 +6,42 @@ namespace projeto_C_sharp
     {
         static void Main(string[] args)
         {
+            int op;
             Console.WriteLine("Hello World!");
-            menu("Lista", "sjdk", "njisj", "jdjdk");
-            leiaOp(1, 4);
+            cabecalho("Cabo Verde");
+            menu("Santo Antão", "São Vicente", "São Nicolau", "Sal", "Boavista", "Maio", "Santiago", "Brava", "Fogo");
+            op = leiaOp(1, 9);
+            linha();
+            switch (op)
+            {
+                case 1:
+                    Console.WriteLine("Primeiro");
+                    break;
+                case 2:
+                    Console.WriteLine("Primeiro");
+                    break;
+                case 3:
+                    Console.WriteLine("Primeiro");
+                    break;
+                case 4:
+                    Console.WriteLine("Primeiro");
+                    break;
+                case 5:
+                    Console.WriteLine("Primeiro");
+                    break;
+                case 6:
+                    Console.WriteLine("Primeiro");
+                    break;
+                case 7:
+                    Console.WriteLine("Primeiro");
+                    break;
+                case 8:
+                    Console.WriteLine("Primeiro");
+                    break;
+                case 9:
+                    Console.WriteLine("Primeiro");
+                    break;
+            }
         }
         static void linha()
         {
@@ -34,7 +67,6 @@ namespace projeto_C_sharp
         static void menu(params string[]lista)
         {
             int c = 1;
-            linha();
             Console.WriteLine("Escolha sua opção: ");
             Console.ForegroundColor = ConsoleColor.Blue;
             foreach (var item in lista)
@@ -57,7 +89,7 @@ namespace projeto_C_sharp
                     return op;
                 }
                 Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine($"ERR!!! Digite um número entre {inf} a {sup}");
+                Console.WriteLine($"ERRO!!! Digite um número entre {inf} a {sup}");
                 Console.ResetColor();
             }
         }
@@ -65,41 +97,15 @@ namespace projeto_C_sharp
     }
     class CaboVerde
     {
-        
+        static int proximo = 1;
+        string nome;
+        int numero, anoNasc;
     }
-    class SantoAntao : CaboVerde
+    class Barlavento
     {
 
     }
-    class SaoVicente : CaboVerde
-    {
-
-    }
-    class SaoNicolau : CaboVerde
-    {
-
-    }
-    class Sal : CaboVerde
-    {
-
-    }
-    class Boavista : CaboVerde
-    {
-
-    }
-    class Maio : CaboVerde
-    {
-
-    }
-    class Santiago : CaboVerde
-    {
-
-    }
-    class Brava : CaboVerde
-    {
-
-    }
-    class Fogo : CaboVerde
+    class Sotavento
     {
 
     }
