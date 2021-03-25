@@ -1,0 +1,16 @@
+C:\Users\TANIA\Documents\Repositorio local\Cabo-Verde\projeto-C_sharp\bin\Debug\net5.0\projeto-C_sharp.exe
+C:\Users\TANIA\Documents\Repositorio local\Cabo-Verde\projeto-C_sharp\bin\Debug\net5.0\projeto-C_sharp.deps.json
+C:\Users\TANIA\Documents\Repositorio local\Cabo-Verde\projeto-C_sharp\bin\Debug\net5.0\projeto-C_sharp.runtimeconfig.json
+C:\Users\TANIA\Documents\Repositorio local\Cabo-Verde\projeto-C_sharp\bin\Debug\net5.0\projeto-C_sharp.runtimeconfig.dev.json
+C:\Users\TANIA\Documents\Repositorio local\Cabo-Verde\projeto-C_sharp\bin\Debug\net5.0\projeto-C_sharp.dll
+C:\Users\TANIA\Documents\Repositorio local\Cabo-Verde\projeto-C_sharp\bin\Debug\net5.0\ref\projeto-C_sharp.dll
+C:\Users\TANIA\Documents\Repositorio local\Cabo-Verde\projeto-C_sharp\bin\Debug\net5.0\projeto-C_sharp.pdb
+C:\Users\TANIA\Documents\Repositorio local\Cabo-Verde\projeto-C_sharp\obj\Debug\net5.0\projeto-C_sharp.csprojAssemblyReference.cache
+C:\Users\TANIA\Documents\Repositorio local\Cabo-Verde\projeto-C_sharp\obj\Debug\net5.0\projeto-C_sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TANIA\Documents\Repositorio local\Cabo-Verde\projeto-C_sharp\obj\Debug\net5.0\projeto-C_sharp.AssemblyInfoInputs.cache
+C:\Users\TANIA\Documents\Repositorio local\Cabo-Verde\projeto-C_sharp\obj\Debug\net5.0\projeto-C_sharp.AssemblyInfo.cs
+C:\Users\TANIA\Documents\Repositorio local\Cabo-Verde\projeto-C_sharp\obj\Debug\net5.0\projeto-C_sharp.csproj.CoreCompileInputs.cache
+C:\Users\TANIA\Documents\Repositorio local\Cabo-Verde\projeto-C_sharp\obj\Debug\net5.0\projeto-C_sharp.dll
+C:\Users\TANIA\Documents\Repositorio local\Cabo-Verde\projeto-C_sharp\obj\Debug\net5.0\ref\projeto-C_sharp.dll
+C:\Users\TANIA\Documents\Repositorio local\Cabo-Verde\projeto-C_sharp\obj\Debug\net5.0\projeto-C_sharp.pdb
+C:\Users\TANIA\Documents\Repositorio local\Cabo-Verde\projeto-C_sharp\obj\Debug\net5.0\projeto-C_sharp.genruntimeconfig.cache
